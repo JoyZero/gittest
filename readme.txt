@@ -4,3 +4,4 @@ made some changes in readme.txt
 create a new branch is quick
 hello world
 add one line in master
+add one line in branch brc
