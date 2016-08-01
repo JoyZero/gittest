@@ -1,2 +1,2 @@
-this is a test file for git
-made some change in readme
+this is a txt test file for git
+made some changes in readme.txt
